@@ -1,0 +1,25 @@
+A-R-Ai/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+│
+├── app/
+│   ├── chat/
+│   ├── voice/
+│   ├── memory/
+│   ├── security/
+│   ├── notes/
+│   ├── reminder/
+│   └── settings/
+│
+├── backend/
+│   ├── gemini/
+│   ├── database/
+│   └── api/
+│
+├── docs/
+│
+└── assets/
+    ├── images/
+    └── icons/
